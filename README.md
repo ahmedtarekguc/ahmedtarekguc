@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmedtarekguc
 - 👀 I’m interested in Game Development, Backend Development and Flutter Development
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently working as a backend developer for Fawry and I develop several apps on the side.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 01095953445 or ahmed.tarek.guc@gmail.com
 
